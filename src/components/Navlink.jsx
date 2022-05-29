@@ -2,23 +2,23 @@ import { NavLink } from "react-router-dom";
 
 const data = [
   {
-    to: "/",
+    to: "/craft-raisebe-website",
     link: "Home",
   },
   {
-    to: "/about",
+    to: "/craft-raisebe-website/about",
     link: "About",
   },
   {
-    to: "/careers",
+    to: "/craft-raisebe-website/careers",
     link: "Careers",
   },
   {
-    to: "/training",
+    to: "/craft-raisebe-website/training",
     link: "Training",
   },
   {
-    to: "/contact",
+    to: "/craft-raisebe-website/contact",
     link: "Contact us",
   },
 ];

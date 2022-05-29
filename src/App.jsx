@@ -26,11 +26,14 @@ const App = () => {
           setIsSidebarOpen={setIsSidebarOpen}
         />
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/careers" element={<Careers />} />
-          <Route path="/training" element={<Training />} />
-          <Route path="/contact" element={<Contact />} />
+          <Route path="/craft-raisebe-website" element={<Home />} />
+          <Route path="/craft-raisebe-website/about" element={<About />} />
+          <Route path="/craft-raisebe-website/careers" element={<Careers />} />
+          <Route
+            path="/craft-raisebe-website/training"
+            element={<Training />}
+          />
+          <Route path="/craft-raisebe-website/contact" element={<Contact />} />
         </Routes>
         {/* footer */}
         <Footer />
