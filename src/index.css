@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  li {
+    @apply hover:font-bold cursor-pointer;
+  }
+
+  input,
+  textarea {
+    @apply bg-transparent border-b py-2 outline-none;
+  }
+}
