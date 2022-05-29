@@ -37,13 +37,11 @@
 
 ## 📢 About The Project
 
-recursive Comments is a site of clear cut demonstration of how the so called recursive Nested Recursive Comments functionality works by using the latest technology stack.
+Project related to internship 2k22.
 
 Features -
 
-- Reply comment upto second level
-- Delete comment.
-- Edit comment.
+- Fully responsive
 
 <p align="right"><a href="#top">back to top</a></p>
 
@@ -52,8 +50,12 @@ Features -
 ![1](readme_assets/1.jpeg)
 ![2](readme_assets/2.jpeg)
 ![3](readme_assets/3.jpeg)
-![3](readme_assets/4.jpeg)
-![3](readme_assets/5.jpeg)
+![4](readme_assets/4.jpeg)
+![5](readme_assets/5.jpeg)
+![6](readme_assets/6.jpeg)
+![7](readme_assets/7.jpeg)
+![8](readme_assets/8.jpeg)
+![9](readme_assets/9.jpeg)
 
 ## 🏗️ Built With
 
@@ -67,7 +69,7 @@ Features -
 
 ## 🎊 Getting Started
 
-After successful installation of the prerequisites, you can go ahead and test the project. Since the project does not contain a backend so far, the default username will be presented to you as manikangkandas.
+After successful installation of the prerequisites, you can go ahead and test the project.
 
 ### ⚙️ Prerequisites
 
