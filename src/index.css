@@ -11,4 +11,11 @@
   textarea {
     @apply bg-transparent border-b py-2 outline-none;
   }
+
+  p,
+  li,
+  a,
+  input {
+    @apply text-sm sm:text-base;
+  }
 }
